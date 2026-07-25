@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0183-customers-who-never-order](https://github.com/MRUN2400/leetcode/tree/master/0183-customers-who-never-order) |
+| [0196-delete-duplicate-emails](https://github.com/MRUN2400/leetcode/tree/master/0196-delete-duplicate-emails) |
 | [0595-big-countries](https://github.com/MRUN2400/leetcode/tree/master/0595-big-countries) |
 | [1148-article-views-i](https://github.com/MRUN2400/leetcode/tree/master/1148-article-views-i) |
 | [1517-find-users-with-valid-e-mails](https://github.com/MRUN2400/leetcode/tree/master/1517-find-users-with-valid-e-mails) |
